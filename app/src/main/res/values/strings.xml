@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eBetter Health</string>
+    <!-- assigned value for spinner -->
+    <string-array name="fgroup">
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Meats</item>
+        <item>Dairy</item>
+        <item>Grain</item>
+        <item>Other</item>
+    </string-array>
+</resources>
